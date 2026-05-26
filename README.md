@@ -40,29 +40,29 @@
 
 ## 📸 Screenshots
 
-### 🖥️ Main Dashboard
+### 🖥️Overview
 <p align="center">
   <img src="assets/assetsdashboard.png1.png" width="700"/>
 </p>
 
 ### 🔍 Threat Analysis
 <p align="center">
-  <img src="assets/screenshot_2.png" width="700"/>
+ <img src="assets/assetsdashboard.png2.png" width="700"/>
 </p>
 
-### 📊 Risk Analytics
+### 📊 Attack Distribution
 <p align="center">
-  <img src="assets/screenshot_3.png" width="700"/>
+  <img src="assets/assetsdashboard.png3.png" width="700"/>
 </p>
 
-### 🚨 Anomaly Detection
+### 🚨 ML Results
 <p align="center">
-  <img src="assets/screenshot_4.png" width="700"/>
+  <img src="assets/assetsdashboard.png4.png" width="700"/>
 </p>
 
-### 📈 SHAP Explainability
+### 📈 Data Preview
 <p align="center">
-  <img src="assets/screenshot_5.png" width="700"/>
+ <img src="assets/assetsdashboard.png5.png" width="700"/>
 </p>
 
 ---
