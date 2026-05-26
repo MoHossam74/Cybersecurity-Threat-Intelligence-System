@@ -42,7 +42,7 @@
 
 ### 🖥️ Main Dashboard
 <p align="center">
-  <img src="assets/screenshot_1.png" width="700"/>
+  <img src="assets/assetsdashboard.png1.png" width="700"/>
 </p>
 
 ### 🔍 Threat Analysis
