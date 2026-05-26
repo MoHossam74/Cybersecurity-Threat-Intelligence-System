@@ -1,19 +1,25 @@
-
 # Cybersecurity Threat Intelligence & Risk Analytics System
 
+<p align="center">
 AI-powered cybersecurity analytics platform using Machine Learning and Streamlit.
+</p>
 
-## Features
-- Threat Classification
-- Anomaly Detection
-- Severity Prediction
-- Interactive Dashboard
+<p align="center">
+  <img src="assets/dashboard.png" width="800"/>
+</p>
 
-## Tech Stack
-Python, Streamlit, XGBoost, SHAP, Plotly
+## 🚀 Features
+- Threat Classification  
+- Anomaly Detection  
+- Severity Prediction  
+- Interactive Dashboard  
 
-![Dashboard](assets/assets/FireShot Capture 041 - Cyber Shield · Dashboard - [localhost].png)
-![Dashboard](assets/assets/FireShot Capture 042 - Cyber Shield · Dashboard - [localhost].png)
-![Dashboard](assets/assets/FireShot Capture 043 - Cyber Shield · Dashboard - [localhost].png)
-![Dashboard](assets/assets/FireShot Capture 044 - Cyber Shield · Dashboard - [localhost].png)
-![Dashboard](assets/assets/FireShot Capture 045 - Cyber Shield · Dashboard - [localhost].png)
+## 🛠 Tech Stack
+Python | Streamlit | XGBoost | SHAP | Plotly  
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="assets/dashboard.png" width="700"/>
+</p>
+
