@@ -11,9 +11,7 @@
   AI-powered cybersecurity analytics platform using Machine Learning and Streamlit.
 </p>
 
-<p align="center">
-  <img src="assets/dashboard_main.png" width="800"/>
-</p>
+
 
 ---
 
