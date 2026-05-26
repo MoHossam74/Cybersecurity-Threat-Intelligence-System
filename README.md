@@ -19,7 +19,7 @@ Python | Streamlit | XGBoost | SHAP | Plotly
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="assets/dashboard.png" width="700"/>
+<p align="center">assets/FireShot Capture 041 - Cyber Shield · Dashboard - [localhost].png
+  <img src="" width="700"/>
 </p>
 
