@@ -65,29 +65,3 @@
 
 ---
 
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/your-username/cyber-shield.git
-cd cyber-shield
-pip install -r requirements.txt
-streamlit run app.py
-```
-
----
-
-## 📁 Project Structure
-
-```
-cyber-shield/
-├── app.py
-├── model/
-├── assets/
-│   ├── dashboard_main.png
-│   ├── screenshot_1.png
-│   ├── screenshot_2.png
-│   ├── screenshot_3.png
-│   ├── screenshot_4.png
-│   └── screenshot_5.png
-└── requirements.txt
-```
